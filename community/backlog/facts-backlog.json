@@ -1113,18 +1113,18 @@
     "id": 186,
     "fact": "Japan has a tradition of giving 'otoshidama' (お年玉) - money in special envelopes to children on New Year's.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 187,
     "fact": "There's a Japanese practice 'teineisa' (丁寧さ) meaning politeness shown through meticulous attention to detail.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 188,
     "fact": "Japan has the world's longest-running comic book series - 'Kochira Katsushika-ku Kameari Kōen Mae Hashutsujo' ran for 40 years.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
